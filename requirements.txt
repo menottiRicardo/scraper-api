@@ -15,6 +15,7 @@ cryptography==37.0.2
 currency-converter-with-rate==1.1.0
 docstring-parser==0.14.1
 Flask==2.1.2
+google-currency==1.0.10
 h11==0.13.0
 idna==3.3
 importlib-metadata==4.11.4
